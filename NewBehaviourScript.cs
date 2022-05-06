@@ -13,6 +13,10 @@ public class NewBehaviourScript : MonoBehaviour
     void Create(){
         
     }
+
+    void Delete(){
+        
+    }
     // Update is called once per frame
     void Update()
     {
